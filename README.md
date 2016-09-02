@@ -1,5 +1,5 @@
 # laravel-nohttpcache
-laravel NoHttpCache Middleware
+laravel NoHttpCache Middleware [NoHttpCacheMiddleware.php](https://github.com/di3/laravel-nohttpcache/blob/master/app/Http/Middleware/NoHttpCacheMiddleware.php)
 
 usable for routeMiddleware *bootstrap/app.php*
 ```php
